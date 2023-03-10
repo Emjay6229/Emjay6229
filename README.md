@@ -21,9 +21,6 @@ My name is Joshua Onwuemene
 
 Backend developer
 -------------------
-
-I am a Backend Software developer with 3+ years of experience in Full Stack Development. I use Javascript/Typescript technologies in my day-to-day work.
-
 * 🌍  Nigeria
 * ✉️  Send me an email [joshua.onwuemene5@gmail.com](mailto:joshua.onwuemene5@gmail.com)
 
