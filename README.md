@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m currently learning how to build large software with Java and Springboot
 - 🤔 I’m willing to collaborate on backend projects
 - 💬 Ask me about Programming and Software Development
-- 📫 Reach me on <a href ="https://linkedin.com/in/joshuaonwuemene">
+- 📫 Reach me on linkedIn @<a href="https://linkedin.com/in/joshuaonwuemene"/>Joshua Onwuemene</a>
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ Fun fact: ...  -->
 
