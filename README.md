@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 Hi, I'm Joshua Chukwudi Onwuemene
 - 🌱 I’m a backend software engineer.
-- 👯 I’m currently learning and building enterprise software with Java and Spring Boot.
+- 👯 I’m currently learning and building enterprise software with Java and Spring framework.
 - 👯 I’m excited about utilizing cloud tech to deploy useful software services.
 - 🤔 I’m willing to collaborate on backend projects
 - 💬 Ask me about programming and software development
