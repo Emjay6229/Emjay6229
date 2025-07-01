@@ -37,7 +37,7 @@ src="https://img.shields.io/twitter/follow/emjay6299?logo=twitter&style=for-the-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
@@ -82,6 +82,10 @@ src="https://img.shields.io/twitter/follow/emjay6299?logo=twitter&style=for-the-
   </a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
+  </a>
+
+   <a href="https://[typeorm.com](https://typeorm.io/)/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original-wordmark.svg" alt="typeorm" width="40" height="40"/>
   </a>
   
   <!-- Communication -->
