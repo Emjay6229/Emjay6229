@@ -84,9 +84,9 @@ src="https://img.shields.io/twitter/follow/emjay6299?logo=twitter&style=for-the-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
   </a>
 
-   <a href="https://[typeorm.com](https://typeorm.io/)/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://[typeorm.com](https://typeorm.io/)/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original-wordmark.svg" alt="typeorm" width="40" height="40"/>
-  </a>
+  </a> -->
   
   <!-- Communication -->
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
