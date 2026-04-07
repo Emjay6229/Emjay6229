@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 - 🔭 Hi, I'm Joshua Chukwudi Onwuemene
-- 🌱 I’m a Software Engineer (Backend).
-- 👯 I’m currently contributing to enterprise software in the Java ecosystem and building cloud-native software.
-- 🤔 I’m willing to collaborate on backend projects
+- 🌱 I’m a Software Engineer working primarily with Java and TypeScript(Node.js).
+- 👯 I’m currently contributing to cloud-native enterprise software.
+- 🤔 I’m willing to collaborate on impactful and technically challenging prpjects - small or large.
 - 💬 Ask me about programming and software development
-- 📫 Reach me on LinkedIn at <a href="https://linkedin.com/in/joshuaonwuemene"/>Joshua Onwuemene</a>
+- 📫 You can reach me on LinkedIn at <a href="https://linkedin.com/in/joshuaonwuemene"/>Joshua Onwuemene</a>
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ Fun fact: ...  -->
 
