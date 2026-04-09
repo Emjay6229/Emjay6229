@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Hi, I'm Joshua Chukwudi Onwuemene
 - 🌱 I’m a Software Engineer working primarily with Java and TypeScript(Node.js).
 - 👯 I’m currently contributing to cloud-native enterprise software.
-- 🤔 I’m willing to collaborate on impactful and technically challenging prpjects - small or large.
+- 🤔 I’m open to collaborate on impactful and technically challenging prpjects - small or large and speaking opportunities.
 - 💬 Ask me about programming and software development
 - 📫 You can reach me on LinkedIn at <a href="https://linkedin.com/in/joshuaonwuemene"/>Joshua Onwuemene</a>
 - 😄 Pronouns: He/Him/His
