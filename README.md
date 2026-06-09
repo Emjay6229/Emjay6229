@@ -3,6 +3,10 @@
 
 Joshua Chukwudi Onwuemene
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Fintech+Infrastructure+%7C+Distributed+Systems;Building+systems+that+move+money" />
+</p>
+
 
 
 
@@ -56,6 +60,10 @@ I build backend systems for web and mobile applications using Java, TypeScript, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Fintech+Infrastructure+%7C+Distributed+Systems" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emjay6229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
