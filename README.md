@@ -1,11 +1,11 @@
 <h1 align="center">Joshua Chukwudi Onwuemene</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Fintech+Infrastructure+%7C+Distributed+Systems;Building+systems+that+move+money" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Distributed+Software+%7C+Data+Systems" />
 </p>
 
 <p align="center">
-  <b>Backend Engineer</b> · Java · TypeScript (Node.js) · Fintech
+  <b>Software Engineer</b> · Java · TypeScript (Node.js) · Fintech
 </p>
 
 <p align="center">
