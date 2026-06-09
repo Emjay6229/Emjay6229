@@ -1,30 +1,18 @@
-
-
-
-Joshua Chukwudi Onwuemene
+<h1 align="center">Joshua Chukwudi Onwuemene</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Fintech+Infrastructure+%7C+Distributed+Systems;Building+systems+that+move+money" />
 </p>
 
+<p align="center">
+  <b>Backend Engineer</b> · Java · TypeScript (Node.js) · Fintech
+</p>
 
-
-
-
-  Backend Engineer · Java · TypeScript (Node.js)
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/joshuaonwuemene">
+    <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Onwuemene-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -62,10 +50,6 @@ I build backend systems for web and mobile applications using Java, TypeScript, 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&center=true&lines=Backend+Engineer;Java+%7C+TypeScript+%7C+Node.js;Fintech+Infrastructure+%7C+Distributed+Systems" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emjay6229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emjay6229&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
@@ -80,4 +64,3 @@ I build backend systems for web and mobile applications using Java, TypeScript, 
 
 - **LinkedIn**: [linkedin.com/in/joshuaonwuemene](https://linkedin.com/in/joshuaonwuemene)
 - Open to **technically challenging collaborations** and **speaking opportunities**
-  
